@@ -279,3 +279,18 @@ ul {
     height: 0%;
   }
 }
+
+@media only screen and (min-width: 1400px){
+  .career-column {
+    margin-right: 40px;
+  }
+  .copyright {
+    position: absolute;
+    bottom: 10px;
+  }
+  .attribution {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+  }
+}
